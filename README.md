@@ -17,13 +17,15 @@
 <a href="https://YOUR_PORTFOLIO_LINK">
   <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white"/>
 </a>
-<a href="https://github.com/YOUR_GITHUB">
+<a href="https://github.com/mayukh30">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+<img src="https://komarev.com/ghpvc/?username=mayukh30&label=👁️%20Profile%20Views&color=brightgreen&style=for-the-badge" alt="profile views"/>
+&nbsp;
+<img src="https://img.shields.io/github/followers/mayukh30?label=Followers&style=for-the-badge&color=blue&logo=github" alt="followers"/>
 
 </div>
 
@@ -41,7 +43,6 @@ focus_areas:
   - Artificial Intelligence & Machine Learning
   - Data Structures and Algorithm
 
-
 fun_fact: I debug with console.log and I'm not ashamed 🙂
 ```
 
@@ -52,63 +53,40 @@ fun_fact: I debug with console.log and I'm not ashamed 🙂
 <div align="center">
 
 ### 🌐 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![EJS](https://img.shields.io/badge/EJS-B4CA65?style=for-the-badge&logo=ejs&logoColor=black)
+
+<img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind&theme=dark&perline=5" />
+
+<br/><br/>
 
 ### ⚙️ Backend
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-![REST API](https://img.shields.io/badge/REST_APIs-FF6F00?style=for-the-badge&logo=fastapi&logoColor=white)
+
+<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark&perline=5" />
+
+<br/><br/>
 
 ### 🗄️ Database & Cloud
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+<img src="https://skillicons.dev/icons?i=mongodb,firebase,supabase&theme=dark&perline=5" />
+
+<br/><br/>
 
 ### 🤖 AI / ML
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=for-the-badge&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
+<img src="https://skillicons.dev/icons?i=python,sklearn,flask&theme=dark&perline=5" />
+
+
+
+<br/><br/>
 
 ### 🔧 Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-</div>
+<img src="https://skillicons.dev/icons?i=git,github,vercel,postman&theme=dark&perline=5" />
 
----
+<br/><br/>
 
+### 💻 Languages
 
----
-
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=mayukh30&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mayukh30&theme=tokyonight&hide_border=true" height="165"/>
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayukh30&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mayukh30&theme=tokyo-night&hide_border=true&area=true"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,python,java&theme=dark&perline=4" />
 
 </div>
 
@@ -128,7 +106,6 @@ fun_fact: I debug with console.log and I'm not ashamed 🙂
 |:---:|:---:|
 | ![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=flat&logo=codechef&logoColor=white) | ⭐⭐ **2-Star** · Max Rating: **1445** |
 | ![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white) | Max Rating: **1735** |
-| 📄 Research | AGC2025, Paper ID: 44 *(Unpublished)* |
 
 ---
 
