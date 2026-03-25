@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+full-stack+apps+with+MERN;Exploring+AI+%26+Machine+Learning;Competitive+Programmer+%F0%9F%8F%86;Open+Source+Contributor)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+full-stack+apps+with+MERN;Exploring+AI+%26+Machine+Learning;Data+Structures+And+Algorithm+%F0%9F%8F%86;Open+Source+Contributor)](https://git.io/typing-svg)
 
 <br/>
 
@@ -13,9 +13,6 @@
 </a>
 <a href="https://linkedin.com/in/YOUR_LINKEDIN">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://YOUR_PORTFOLIO_LINK">
-  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white"/>
 </a>
 <a href="https://github.com/mayukh30">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
