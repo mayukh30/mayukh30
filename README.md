@@ -34,13 +34,12 @@
 ```yaml
 name: Mayukh Sinha
 education: B.E. in Information Technology @ Jadavpur University (2023–2027)
-cgpa: 7.75
 location: Kolkata, India
 
 focus_areas:
   - Full Stack Web Development (MERN Stack)
   - Artificial Intelligence & Machine Learning
-  - Competitive Programming
+  - Data Structures and Algorithm
 
 
 fun_fact: I debug with console.log and I'm not ashamed 🙂
