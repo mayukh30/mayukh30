@@ -42,11 +42,6 @@ focus_areas:
   - Artificial Intelligence & Machine Learning
   - Competitive Programming
 
-currently:
-  - Membership Chair @ JU ACM Student Chapter
-  - Class Representative @ Dept. of IT
-  - Head of Logistics @ JU Games Society
-  - Working on a research paper (AGC2025, Paper ID: 44)
 
 fun_fact: I debug with console.log and I'm not ashamed 🙂
 ```
@@ -97,50 +92,9 @@ fun_fact: I debug with console.log and I'm not ashamed 🙂
 
 ---
 
-## 🚀 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/YOUR_GITHUB/reclaim-it">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB&repo=reclaim-it&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/YOUR_GITHUB/ju-study-portal">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB&repo=ju-study-portal&theme=tokyonight&hide_border=true" />
-</a>
-
-</div>
-
-<br/>
-
-### 🔍 Reclaim IT — Lost & Found Management Platform
-> Full-stack platform with item reporting, claim workflows, and real-time notifications.
-
-- 🔐 **Auth**: JWT + Google OAuth 2.0 with bcrypt hashing & protected routes
-- 📊 **DB**: MongoDB with Mongoose schemas — `User`, `LostItem`, `FoundItem`, `ClaimRequest`
-- 🚀 **Deployed**: Frontend + Backend on Vercel with MongoDB Atlas
-- 🛠️ `React.js` `Node.js` `Express.js` `MongoDB` `JWT` `OAuth 2.0` `Vercel`
 
 ---
 
-### 📚 JU Study Portal — Group Project
-> One-stop study resource hub for Jadavpur University students.
-
-- 📱 Modules: Login · Register · Notes · PYQ · Marketplace
-- 🔗 Dynamic content via API integration & responsive UI
-- 🤝 Collaborative GitHub-based workflow
-- 🛠️ `React.js` `JavaScript` `Bootstrap` `GitHub`
-
----
-
-### 🌐 Personal Portfolio Website
-> Full-stack portfolio with contact form API and database persistence.
-
-- 🎨 Responsive UI built with React + Tailwind CSS
-- 📬 Backend contact form with validation & MongoDB persistence
-- ☁️ Hosted on Render
-- 🛠️ `React.js` `Node.js` `Express.js` `MongoDB` `Tailwind CSS` `Render`
-
----
 
 ## 📊 GitHub Stats
 
@@ -176,27 +130,6 @@ fun_fact: I debug with console.log and I'm not ashamed 🙂
 | ![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=flat&logo=codechef&logoColor=white) | ⭐⭐ **2-Star** · Max Rating: **1445** |
 | ![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white) | Max Rating: **1735** |
 | 📄 Research | AGC2025, Paper ID: 44 *(Unpublished)* |
-
----
-
-## 📜 Certifications
-
-<div align="center">
-
-![Full Stack](https://img.shields.io/badge/Full%20Stack%20Web%20Development-Course%20Certified-blue?style=for-the-badge&logo=udemy&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle%20Cloud%20Infrastructure-Foundations%20Certified-red?style=for-the-badge&logo=oracle&logoColor=white)
-
-</div>
-
----
-
-## 👥 Positions of Responsibility
-
-| Role | Organization | Duration |
-|:---|:---|:---|
-| 🎓 Membership Chair | JU ACM Student Chapter | 2025 – Present |
-| 📋 Class Representative | Dept. of Information Technology | 2025 – Present |
-| 🎮 Head of Logistics | JU Games Society | 2025 – Present |
 
 ---
 
