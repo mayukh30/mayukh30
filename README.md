@@ -2,11 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=6,11,20&text=Mayukh%20Sinha&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Software%20Engineer%20%7C%20AI%2FML%20Engineer&descAlignY=58"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Software+Engineer;AI%2FML+Engineer;Agentic+AI+%7C+RAG+Systems;Computer+Vision+%7C+NLP;Building+Scalable+Applications+🚀)](https://git.io/typing-svg)
-
-<br>
-
-<img width="450" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Software+Engineer;AI%2FML+Engineer;Generative+AI+%7C+Agentic+AI;Computer+Vision+%7C+NLP;Building+Scalable+Applications+🚀)](https://git.io/typing-svg)
 
 <br><br>
 
@@ -34,99 +30,149 @@
 
 # 💫 About Me
 
-🚀 Information Technology undergraduate at **Jadavpur University**
+Hi, I'm **Mayukh Sinha**, an Information Technology undergraduate at **Jadavpur University** passionate about building scalable software systems and intelligent AI-powered applications.
 
-💻 Passionate about **Full Stack Web Development**, **Software Engineering**, and **Artificial Intelligence**
+💻 My primary interests include:
 
-🧠 Interested in **Agentic AI**, **Generative AI**, **RAG Systems**, **Computer Vision**, **NLP**, and **Multimodal AI**
+- Full Stack Web Development (MERN Stack)
+- Software Engineering & Backend Systems
+- Artificial Intelligence & Machine Learning
+- Deep Learning & Computer Vision
+- Generative AI & Agentic AI
+- NLP, RAG Systems & Multimodal AI
 
-⚡ Love building scalable applications, intelligent systems, and solving real-world problems
+⚡ I enjoy combining strong software engineering principles with modern AI technologies to build practical, real-world solutions.
 
-🐛 Fun Fact: I use `console.log()` to debug and I'm not ashamed of it 😆
+📚 Currently exploring:
+
+- Multi-Agent Systems
+- Advanced RAG Architectures
+- Distributed Systems
+- MLOps & Scalable AI Deployment
+
+🐛 **Fun Fact:** I use `console.log()` to debug and I'm not ashamed of it 😆
 
 ---
 
-# ⚒️ Tech Stack
+# 🌐 Full Stack Development
 
 <div align="center">
 
-### 🌐 Frontend Development
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind,html,css,bootstrap,javascript,nodejs,express,fastapi,mongodb,redis,supabase,docker&theme=dark"/>
 
-<img src="https://skillicons.dev/icons?i=react,vite,tailwind,html,css,bootstrap,javascript&theme=dark"/>
-
-<br><br>
-
-### ⚙️ Backend Development
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi&theme=dark"/>
-
-<br><br>
-
-### 🗄️ Databases & Cloud
-
-<img src="https://skillicons.dev/icons?i=mongodb,supabase,redis,docker&theme=dark"/>
+</div>
 
 <br>
 
-<img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge"/>
+### Technologies
 
-<img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary"/>
+- React.js
+- Vite
+- Tailwind CSS
+- Bootstrap
+- Node.js
+- Express.js
+- FastAPI
+- REST APIs
+- MongoDB
+- Redis
+- Supabase
+- Cloudinary
+- Docker
+- MERN Stack
+- MVC Architecture
+- CRUD Applications
 
-<br><br>
+---
 
-### 🤖 Artificial Intelligence & Machine Learning
+# 🤖 AI / Machine Learning / Deep Learning / Data Science
+
+<div align="center">
 
 <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow&theme=dark"/>
 
-<br>
-
-<img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/LangGraph-00A67E?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/XGBoost-EA4335?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/YOLO-111827?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/SHAP-FF6F00?style=for-the-badge"/>
+</div>
 
 <br>
 
-<img src="https://img.shields.io/badge/RAG-4CAF50?style=for-the-badge"/>
+### Frameworks & Libraries
 
-<img src="https://img.shields.io/badge/Agentic_AI-6C63FF?style=for-the-badge"/>
+- PyTorch
+- TensorFlow
+- Scikit-Learn
+- XGBoost
+- SHAP
+- YOLO
+- LangChain
+- LangGraph
 
-<img src="https://img.shields.io/badge/NLP-2962FF?style=for-the-badge"/>
+### Data Science
 
-<img src="https://img.shields.io/badge/Multimodal_AI-FF4081?style=for-the-badge"/>
+- Pandas
+- NumPy
+- Matplotlib
+- Data Analysis
+- Feature Engineering
+- Data Visualization
 
-<img src="https://img.shields.io/badge/XAI-FF9800?style=for-the-badge"/>
+### AI Domains
 
-<br><br>
+- Machine Learning
+- Deep Learning
+- Generative AI
+- Agentic AI
+- NLP
+- Computer Vision
+- Multimodal AI
+- Explainable AI (XAI)
+- Retrieval-Augmented Generation (RAG)
 
-### 📊 Data Science
+---
 
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+# ⚙️ Software Engineering & CS Fundamentals
 
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
+<div align="center">
 
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-00599C?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn"/>
+<img src="https://img.shields.io/badge/DBMS-4479A1?style=for-the-badge"/>
 
-<br><br>
+<img src="https://img.shields.io/badge/OOP-ED8B00?style=for-the-badge"/>
 
-### 🚀 DevOps & Deployment
+<img src="https://img.shields.io/badge/Operating%20Systems-6DB33F?style=for-the-badge"/>
 
-<img src="https://skillicons.dev/icons?i=docker,githubactions,vercel&theme=dark"/>
+<img src="https://img.shields.io/badge/Computer%20Networks-1E88E5?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Software%20Engineering-FF6F00?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Web%20Technology-E34F26?style=for-the-badge"/>
+
+</div>
 
 <br>
 
-<img src="https://img.shields.io/badge/HuggingFace-FCC624?style=for-the-badge&logo=huggingface"/>
+### Core Concepts
 
-<br><br>
+- Data Structures & Algorithms
+- Database Management Systems
+- Object-Oriented Programming
+- Object-Oriented Systems
+- Operating Systems
+- Computer Networks
+- Software Engineering
+- Web Technologies
+- Design Patterns
+- System Design
+- Distributed Systems
+- Backend Architecture
+- REST APIs
+- CI/CD
 
-### 💻 Programming Languages
+---
+
+# 💻 Programming Languages
+
+<div align="center">
 
 <img src="https://skillicons.dev/icons?i=cpp,java,python,javascript,html&theme=dark"/>
 
@@ -134,18 +180,21 @@
 
 ---
 
-# 🎯 Specializations
+# 🚀 DevOps & Deployment
 
-| Full Stack Development | Artificial Intelligence | Data Science | Software Engineering |
-|------------------------|-------------------------|--------------|----------------------|
-| MERN Stack | Agentic AI | Pandas | System Design |
-| React.js | Generative AI | NumPy | MVC Architecture |
-| Node.js | RAG Systems | Matplotlib | REST APIs |
-| Express.js | LangChain | Scikit-Learn | Distributed Systems |
-| FastAPI | LangGraph | XGBoost | CI/CD |
-| Redis | NLP | SHAP | Backend Architecture |
-| MongoDB | Computer Vision | TensorFlow | Scalable Systems |
-| Supabase | Multimodal AI | PyTorch | Cloud Deployment |
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=docker,githubactions,vercel&theme=dark"/>
+
+</div>
+
+<br>
+
+- Docker
+- GitHub Actions
+- CI/CD
+- Hugging Face Spaces
+- Vercel
 
 ---
 
@@ -179,15 +228,7 @@
 
 ---
 
-# 🏆 Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=mayukh30&theme=tokyonight&no-frame=true&column=7"/>
-
-</div>
-
-<br>
+# 🏆 Competitive Programming
 
 | Platform | Achievement |
 |-----------|------------|
@@ -213,5 +254,5 @@ Build → Learn → Improve → Scale
 
 Write clean code.
 Design scalable systems.
-Stay curious.
-Keep shipping.
+Solve real-world problems.
+Keep learning every day.
