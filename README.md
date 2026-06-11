@@ -131,13 +131,11 @@ Docker • GitHub Actions • Vercel • Hugging Face Spaces • CI/CD
 
 ---
 
-# 🧩 LeetCode Stats
+# 🧩 LeetCode Statistics
 
 <div align="center">
 
-<img width="49%" src="https://leetcard.jacoblin.cool/https://leetcode.com/u/mayukh_code/?theme=tokyonight&font=JetBrains%20Mono&ext=contest"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mayukh30&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=JetBrains%20Mono&ext=contest"/>
 
 </div>
 
