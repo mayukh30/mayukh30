@@ -4,6 +4,11 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=1000&lines=Full+Stack+Developer;Software+Engineer;AI%2FML+Engineer;Generative+AI+%7C+Agentic+AI;Computer+Vision+%7C+NLP+%7C+RAG;Building+Scalable+Applications+🚀)](https://git.io/typing-svg)
 
+<br>
+
+<img width="450" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
+<br><br>
 <br><br>
 
 <a href="mailto:mayukhs.it.ug@jadavpuruniversity.in">
@@ -123,6 +128,19 @@ Hi, I'm **Mayukh Sinha**, an Information Technology undergraduate at **Jadavpur 
 </div>
 
 Docker • GitHub Actions • Vercel • Hugging Face Spaces • CI/CD
+
+---
+
+# 🧩 LeetCode Stats
+
+<div align="center">
+
+<img width="49%" src="https://leetcard.jacoblin.cool/https://leetcode.com/u/mayukh_code/?theme=tokyonight&font=JetBrains%20Mono&ext=contest"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mayukh30&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+</div>
+
 
 ---
 
