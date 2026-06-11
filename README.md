@@ -135,7 +135,7 @@ Docker • GitHub Actions • Vercel • Hugging Face Spaces • CI/CD
 
 <div align="center">
 
-<img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=JetBrains%20Mono&ext=contest"/>
+<img src="https://leetcard.jacoblin.cool/mayukh_code?theme=dark&font=JetBrains%20Mono&ext=contest"/>
 
 </div>
 
