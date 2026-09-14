@@ -16,7 +16,6 @@
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=mayukh30&style=flat-square&color=58A6FF&label=PROFILE+VIEWS"/>
-<img src="https://img.shields.io/github/followers/mayukh30?style=flat-square&color=58A6FF&labelColor=0d1117&logo=github"/>
 
 </div>
 
@@ -97,30 +96,6 @@ debugger:   console.log() — unapologetically 🐛
 
 </details>
 
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=mayukh30&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&icon_color=58A6FF&include_all_commits=true&rank_icon=github"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayukh30&layout=compact&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&langs_count=8"/>
-
-<br/>
-
-<img width="72%" src="https://streak-stats.demolab.com?user=mayukh30&hide_border=true&background=0d1117&stroke=21262d&ring=58A6FF&fire=FF6B35&currStreakLabel=58A6FF&sideLabels=c9d1d9&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff"/>
-
-<br/><br/>
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=mayukh30&hide_border=true&bg_color=0d1117&color=58A6FF&line=1f6feb&point=ffffff&area=true&area_color=1f6feb"/>
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=mayukh30&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6"/>
-
-</div>
-
----
-
 ## ⚔️ Competitive Programming
 
 <div align="center">
@@ -137,6 +112,29 @@ debugger:   console.log() — unapologetically 🐛
 ---
 
 <div align="center">
+
+
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+
+
+<br/>
+
+<img width="72%" src="https://streak-stats.demolab.com?user=mayukh30&hide_border=true&background=0d1117&stroke=21262d&ring=58A6FF&fire=FF6B35&currStreakLabel=58A6FF&sideLabels=c9d1d9&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff"/>
+
+<br/><br/>
+
+
+<br/>
+
+</div>
+
+---
+
+
 
 ### Build · Learn · Ship · Repeat
 
