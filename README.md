@@ -125,8 +125,8 @@ So I build end to end: responsive frontends, backends that hold up under load, m
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/LeetCode-Max_1735-161b22?style=flat-square&logo=leetcode&logoColor=FFA116&labelColor=0d1117"/>&nbsp;
-<img src="https://img.shields.io/badge/CodeChef-2★_·_Max_1445-161b22?style=flat-square&logo=codechef&logoColor=A97A5A&labelColor=0d1117"/>
+
+<img src="https://img.shields.io/badge/CodeChef-3★_·_Max_1693-161b22?style=flat-square&logo=codechef&logoColor=A97A5A&labelColor=0d1117"/>
 
 </div>
 
