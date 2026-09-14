@@ -1,189 +1,146 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=12,20,24,30&text=Mayukh%20Sinha&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Developer%20•%20Software%20Engineer%20•%20AI%2FML%20Engineer&descAlignY=58"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0d1117,45:1f6feb,100:58a6ff&text=Mayukh%20Sinha&fontSize=58&fontColor=ffffff&fontAlignY=34&desc=Full%20Stack%20Developer%20%C2%B7%20Software%20Engineer%20%C2%B7%20AI%2FML&descAlignY=53&descSize=16&animation=fadeIn"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=1000&lines=Full+Stack+Developer;Software+Engineer;AI%2FML+Engineer;Generative+AI+%7C+Agentic+AI;Computer+Vision+%7C+NLP+%7C+RAG;Building+Scalable+Applications+🚀)](https://git.io/typing-svg)
-
-<br>
-
-<img width="450" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
-
-<br><br>
-<br><br>
-
-<a href="mailto:mayukhs.it.ug@jadavpuruniversity.in">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=620&lines=Building+scalable+full-stack+systems;Shipping+AI+that+actually+runs+in+prod;MERN+%7C+FastAPI+%7C+Docker+%7C+CI%2FCD;LLMs+%7C+RAG+%7C+Agents+%7C+Computer+Vision"/>
 </a>
 
-<a href="https://www.linkedin.com/in/mayukh-sinha-b262a9256">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<br/>
 
-<a href="https://github.com/mayukh30">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
+<a href="mailto:mayukhs.it.ug@jadavpuruniversity.in"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=0d1117"/></a>
+<a href="https://www.linkedin.com/in/mayukh-sinha-b262a9256"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF&labelColor=0d1117"/></a>
+<a href="https://github.com/mayukh30"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=0d1117"/></a>
+<a href="https://leetcode.com/u/mayukh_code/"><img src="https://img.shields.io/badge/LeetCode-0d1117?style=for-the-badge&logo=leetcode&logoColor=FFA116&labelColor=0d1117"/></a>
 
-<br><br>
+<br/>
 
-<img src="https://komarev.com/ghpvc/?username=mayukh30&style=for-the-badge&color=58A6FF"/>
-<img src="https://img.shields.io/github/followers/mayukh30?style=for-the-badge&logo=github"/>
+<img src="https://komarev.com/ghpvc/?username=mayukh30&style=flat-square&color=58A6FF&label=PROFILE+VIEWS"/>
+<img src="https://img.shields.io/github/followers/mayukh30?style=flat-square&color=58A6FF&labelColor=0d1117&logo=github"/>
+
+</div>
+
+<br/>
+
+## 👋 About
+
+<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
+IT undergrad at **Jadavpur University**, building things that live somewhere between a clean REST API and a model checkpoint.
+
+I like owning the whole lifecycle — designing the schema, writing the backend, wiring the UI, training the model, then getting it deployed and monitored instead of leaving it in a notebook.
+
+```yaml
+location:   Kolkata, India
+focus:      Agentic AI, RAG, Machine Learning, Full Stack Engineering
+stack:      React · Node · FastAPI · MongoDB · PyTorch · Docker
+debugger:   console.log() — unapologetically 🐛
+```
+
+<br clear="right"/>
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=cpp,java,python,javascript,typescript,html,css&theme=dark&perline=7"/>
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind,bootstrap,redux&theme=dark&perline=7"/>
+
+**Backend & Data**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mongodb,redis,supabase,postgres&theme=dark&perline=7"/>
+
+**AI / ML**
+
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv&theme=dark&perline=7"/>
+
+**DevOps & Tools**
+
+<img src="https://skillicons.dev/icons?i=docker,githubactions,git,linux,vercel,postman,figma&theme=dark&perline=7"/>
+
+</div>
+
+<details>
+<summary><b>🧠 AI/ML specializations & CS fundamentals</b></summary>
+
+<br/>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Generative_AI-0d1117?style=flat-square&labelColor=0d1117&color=FF4081"/>
+<img src="https://img.shields.io/badge/Agentic_AI-0d1117?style=flat-square&labelColor=0d1117&color=6C63FF"/>
+<img src="https://img.shields.io/badge/RAG-0d1117?style=flat-square&labelColor=0d1117&color=4CAF50"/>
+<img src="https://img.shields.io/badge/LangChain-0d1117?style=flat-square&labelColor=0d1117&color=1C3C3C"/>
+<img src="https://img.shields.io/badge/LangGraph-0d1117?style=flat-square&labelColor=0d1117&color=00A67E"/>
+<img src="https://img.shields.io/badge/NLP-0d1117?style=flat-square&labelColor=0d1117&color=2962FF"/>
+<img src="https://img.shields.io/badge/Computer_Vision-0d1117?style=flat-square&labelColor=0d1117&color=FF5722"/>
+<img src="https://img.shields.io/badge/YOLO-0d1117?style=flat-square&labelColor=0d1117&color=111827"/>
+<img src="https://img.shields.io/badge/Multimodal-0d1117?style=flat-square&labelColor=0d1117&color=E91E63"/>
+<img src="https://img.shields.io/badge/XGBoost-0d1117?style=flat-square&labelColor=0d1117&color=EA4335"/>
+<img src="https://img.shields.io/badge/SHAP_·_XAI-0d1117?style=flat-square&labelColor=0d1117&color=FF9800"/>
+
+</div>
+
+| Core CS | Systems | Engineering |
+|---|---|---|
+| Data Structures & Algorithms | Operating Systems | Software Engineering |
+| Object-Oriented Programming | Computer Networks | Design Patterns |
+| DBMS | Distributed Systems | System Design |
+| Web Technologies | Backend Architecture | CI/CD |
+
+</details>
+
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=mayukh30&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&icon_color=58A6FF&include_all_commits=true&rank_icon=github"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayukh30&layout=compact&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&langs_count=8"/>
+
+<br/>
+
+<img width="72%" src="https://streak-stats.demolab.com?user=mayukh30&hide_border=true&background=0d1117&stroke=21262d&ring=58A6FF&fire=FF6B35&currStreakLabel=58A6FF&sideLabels=c9d1d9&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff"/>
+
+<br/><br/>
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=mayukh30&hide_border=true&bg_color=0d1117&color=58A6FF&line=1f6feb&point=ffffff&area=true&area_color=1f6feb"/>
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=mayukh30&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6"/>
 
 </div>
 
 ---
 
-# 💫 About Me
-
-Hi, I'm **Mayukh Sinha**, an Information Technology undergraduate at **Jadavpur University** passionate about building scalable software systems and intelligent AI-powered applications.
-
-💻 My primary interests include:
-
-- Full Stack Web Development (MERN Stack)
-- Software Engineering & Backend Systems
-- Artificial Intelligence, Machine Learning & Deep Learning
-- Generative AI & Agentic AI
-- Computer Vision, NLP & Multimodal AI
-- RAG Systems & LLM Applications
-
-⚡ I enjoy working across the entire development lifecycle—from designing responsive frontends and scalable backend architectures to training ML models and deploying AI-powered systems.
-
-📚 Strong foundations in Data Structures & Algorithms, DBMS, OOP, Operating Systems, Computer Networks, Software Engineering and Web Technologies.
-
-🐛 Fun Fact: I use `console.log()` to debug and I'm not ashamed of it 😆
-
----
-
-# 🌐 Full Stack Development
-
-<div align="center">
-<img src="https://skillicons.dev/icons?i=react,vite,tailwind,bootstrap,html,css,javascript,nodejs,express,fastapi,mongodb,redis,supabase,docker&theme=dark"/>
-</div>
-
-**Technologies:** React.js • Vite • Tailwind CSS • Bootstrap • Node.js • Express.js • FastAPI • MongoDB • Redis • Supabase • Cloudinary • REST APIs • MERN Stack • MVC Architecture • CRUD Applications
-
----
-
-# 🤖 AI / ML / Deep Learning / Data Science
+## ⚔️ Competitive Programming
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow&theme=dark"/>
+<img width="62%" src="https://leetcard.jacoblin.cool/mayukh_code?theme=dark&font=JetBrains%20Mono&ext=contest&border=0"/>
 
-<br><br>
+<br/>
 
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn"/>
-<img src="https://img.shields.io/badge/XGBoost-EA4335?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LangGraph-00A67E?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/YOLO-111827?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/SHAP-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LeetCode-Max_1735-0d1117?style=for-the-badge&logo=leetcode&logoColor=FFA116&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/CodeChef-2★_Max_1445-0d1117?style=for-the-badge&logo=codechef&logoColor=5B4638&labelColor=0d1117"/>
 
-<br><br>
-
-<img src="https://img.shields.io/badge/Generative_AI-FF4081?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Agentic_AI-6C63FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/RAG-4CAF50?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/NLP-2962FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Computer_Vision-FF5722?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Multimodal_AI-E91E63?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/XAI-FF9800?style=for-the-badge"/>
-
-</div>
-
----
-
-# ⚙️ Software Engineering & CS Fundamentals
-
-- Data Structures & Algorithms
-- Database Management Systems (DBMS)
-- Object-Oriented Programming (OOP)
-- Object-Oriented Systems
-- Operating Systems
-- Computer Networks
-- Software Engineering
-- Web Technologies
-- Design Patterns
-- System Design
-- Distributed Systems
-- Backend Architecture
-- CI/CD
-
----
-
-# 💻 Programming Languages
-
-<div align="center">
-<img src="https://skillicons.dev/icons?i=cpp,java,python,javascript,html&theme=dark"/>
-</div>
-
----
-
-# 🚀 DevOps & Deployment
-
-<div align="center">
-<img src="https://skillicons.dev/icons?i=docker,githubactions,vercel&theme=dark"/>
-</div>
-
-Docker • GitHub Actions • Vercel • Hugging Face Spaces • CI/CD
-
----
-
-# 🧩 LeetCode Statistics
-
-<div align="center">
-
-<img src="https://leetcard.jacoblin.cool/mayukh_code?theme=dark&font=JetBrains%20Mono&ext=contest"/>
-
-</div>
-
-
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=mayukh30&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="170" src="https://streak-stats.demolab.com?user=mayukh30&theme=tokyonight&hide_border=true"/>
-</div>
-
-<div align="center">
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayukh30&layout=compact&theme=tokyonight&hide_border=true"/>
-</div>
-
----
-
-# 📈 Contribution Activity
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mayukh30&theme=tokyo-night&hide_border=true"/>
-</div>
-
----
-
-# 🏆 Competitive Programming
-
-| Platform | Achievement |
-|-----------|------------|
-| ⭐ CodeChef | 2-Star (Max Rating: 1445) |
-| 🔥 LeetCode | Max Rating: 1735 |
-
----
-
-# 🔥 GitHub Profile Summary
-
-<div align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mayukh30&theme=tokyonight"/>
 </div>
 
 ---
 
 <div align="center">
 
-### 🚀 Build. Learn. Innovate. Repeat.
+### Build · Learn · Ship · Repeat
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=gradient&customColorList=12,20,24,30"/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:58a6ff,55:1f6feb,100:0d1117"/>
 
 </div>
