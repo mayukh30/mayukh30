@@ -31,7 +31,7 @@
 <tr>
 <td width="52%" valign="middle">
 
-### `01` — Who's typing
+### Who's typing
 
 I'm **Mayukh**, an Information Technology undergrad at **Jadavpur University**.
 
@@ -39,7 +39,7 @@ I like the part of engineering where the layers meet — where a schema decision
 
 So I build end to end: responsive frontends, backends that hold up under load, models trained and then actually deployed rather than left in a notebook.
 
-**Open to** internships, collaborations, and problems that don't have a StackOverflow answer yet.
+**Open to** collaborations, and problems that don't have a StackOverflow answer yet.
 
 </td>
 <td width="48%" valign="middle">
@@ -54,7 +54,7 @@ So I build end to end: responsive frontends, backends that hold up under load, m
 <img width="100%" src="https://raw.githubusercontent.com/mayukh30/mayukh30/main/assets/divider.svg" alt=""/>
 </div>
 
-### `02` — Toolbox
+###  Toolbox
 
 <table width="100%">
 <tr>
@@ -117,43 +117,7 @@ So I build end to end: responsive frontends, backends that hold up under load, m
 <img width="100%" src="https://raw.githubusercontent.com/mayukh30/mayukh30/main/assets/divider.svg" alt=""/>
 </div>
 
-### `03` — Selected work
-
-<!-- Swap REPO-ONE … REPO-FOUR for real repo names -->
-
-<div align="center">
-
-<a href="https://github.com/mayukh30/REPO-ONE"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=mayukh30&repo=REPO-ONE&bg_color=0d1117&title_color=58A6FF&text_color=8b949e&icon_color=a78bfa&border_color=21262d&border_radius=12"/></a>
-<a href="https://github.com/mayukh30/REPO-TWO"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=mayukh30&repo=REPO-TWO&bg_color=0d1117&title_color=58A6FF&text_color=8b949e&icon_color=a78bfa&border_color=21262d&border_radius=12"/></a>
-<a href="https://github.com/mayukh30/REPO-THREE"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=mayukh30&repo=REPO-THREE&bg_color=0d1117&title_color=58A6FF&text_color=8b949e&icon_color=a78bfa&border_color=21262d&border_radius=12"/></a>
-<a href="https://github.com/mayukh30/REPO-FOUR"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=mayukh30&repo=REPO-FOUR&bg_color=0d1117&title_color=58A6FF&text_color=8b949e&icon_color=a78bfa&border_color=21262d&border_radius=12"/></a>
-
-</div>
-
-<div align="center">
-<img width="100%" src="https://raw.githubusercontent.com/mayukh30/mayukh30/main/assets/divider.svg" alt=""/>
-</div>
-
-### `04` — By the numbers
-
-<div align="center">
-
-<img height="168" src="https://github-readme-stats.vercel.app/api?username=mayukh30&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=8b949e&icon_color=a78bfa&include_all_commits=true&rank_icon=github"/>
-<img height="168" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayukh30&layout=compact&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=8b949e&langs_count=8"/>
-
-<img width="70%" src="https://streak-stats.demolab.com?user=mayukh30&hide_border=true&background=0d1117&stroke=21262d&ring=a78bfa&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=8b949e&dates=6e7681&currStreakNum=e6edf3&sideNums=e6edf3"/>
-
-<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=mayukh30&hide_border=true&bg_color=0d1117&color=58A6FF&line=a78bfa&point=e6edf3&area=true&area_color=1f3a6e"/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=mayukh30&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6"/>
-
-</div>
-
-<div align="center">
-<img width="100%" src="https://raw.githubusercontent.com/mayukh30/mayukh30/main/assets/divider.svg" alt=""/>
-</div>
-
-### `05` — Competitive programming
+###  Competitive programming
 
 <div align="center">
 
@@ -172,7 +136,23 @@ So I build end to end: responsive frontends, backends that hold up under load, m
 
 <img width="100%" src="https://raw.githubusercontent.com/mayukh30/mayukh30/main/assets/divider.svg" alt=""/>
 
-<sub><b>BUILD · LEARN · SHIP · REPEAT</b></sub>
+### By the numbers
+
+<div align="center">
+
+
+
+<img width="70%" src="https://streak-stats.demolab.com?user=mayukh30&hide_border=true&background=0d1117&stroke=21262d&ring=a78bfa&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=8b949e&dates=6e7681&currStreakNum=e6edf3&sideNums=e6edf3"/>
+
+</div>
+
+<div align="center">
+<img width="100%" src="https://raw.githubusercontent.com/mayukh30/mayukh30/main/assets/divider.svg" alt=""/>
+</div>
+
+
+
+<b>BUILD · LEARN · SHIP · REPEAT</b></sub>
 
 <br/><br/>
 
